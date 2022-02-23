@@ -1,3 +1,82 @@
 body{
     font-family: 'Poppins', sans-serif;
 }
+.main-section{
+    display: flex;
+    margin-bottom: 100px;
+}
+.colorize{
+    color: orange;
+}
+h1{
+    font-size: 50px;
+}
+.half-width{
+    width: 50%;
+    margin-left: 50px;
+}
+.half-width img{
+    width: 500px;
+}
+.link-button{
+    text-decoration: none;
+    background-color: tomato;
+    padding: 10px 40px;
+    color: rgb(255, 255, 255);
+    border-radius: 5px;
+}
+.space-btween{
+    margin-top: 40px;
+}
+.text-position{
+    text-align: center;
+}
+.parent-divition{
+    display: flex;
+    height: 400px;
+    width: 80%;
+   
+    margin-left: 150px;
+    
+   
+}
+.parent-divition img{
+    width: 150px;
+}
+
+#mission-cart{
+    background-color: aliceblue;
+    margin: 20px;
+    border-radius: 20px;
+    padding-left:30px;
+}
+#vission-cart{
+    background-color: rgb(248, 234, 232);
+    margin: 20px;
+    border-radius: 15px;
+    padding-left:30px;
+}
+#goals-cart{ background-color: rgb(255, 248, 215);
+    margin: 20px;
+    border-radius: 15px;
+    padding-left:30px;
+}
+.mission-area{
+    margin-bottom: 100px;
+}
+.documentation-area{
+    margin-left: 80px;
+}
+.project-image{
+    margin-right: 50px;
+}
+.footer-area{
+    height: 150px;
+    width: 100%;
+    background-color:black;
+    text-align: center;padding-bottom: 20px;
+    color: white;
+}
+.footer-text{
+    color: tomato;
+}
